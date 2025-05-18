@@ -1,12 +1,12 @@
 {
 
-  "secretCode": "xyzdzzv1",
+  "secretCode": "GALAXYMODEBANTAI",
 
-  "description": "PamzzNotDev", 
+  "description": "UniverseGalaxy", 
 
-  "lastUpdated": "25/04/2025",
+  "lastUpdated": "18/05/2025",
 
-  "author": "PamzzGanteng++", 
+  "author": "@X", 
 
   "status": "Active",
 
